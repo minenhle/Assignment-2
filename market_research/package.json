@@ -1,0 +1,16 @@
+{
+  "name": "market_research",
+  "version": "1.0.0",
+  "description": "",
+  "main": "market_research.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies":{
+    "restler": "*",
+    "csv": "*",
+    "accounting": "*"
+  },
+  "author": "Minz",
+  "license": "BSD"
+}
